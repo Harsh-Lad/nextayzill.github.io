@@ -1,0 +1,164 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[3]!./app/contact/page.module.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************/
+.page_text-black__oPe9g {
+    color: #000;
+}
+
+.page_content__zchv1 {
+    padding: 7rem 0;
+}
+
+.page_heading__6ci7g {
+    font-size: 2.5rem;
+    font-weight: 900;
+    color: #4c7df0;
+}
+
+.page_heading1__rUsaP {
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: #4c7df0;
+}
+
+.page_form-control__QTTr1 {
+    border: none;
+    background: #f3f3f3;
+}
+
+.page_form-control__QTTr1:active,
+.page_form-control__QTTr1:focus {
+    outline: none;
+    box-shadow: none;
+    border-color: #000;
+    background: #f3f3f3;
+}
+
+.page_col-form-label__gOiA8 {
+    color: #000;
+}
+
+.page_btn__RMlOM,
+.page_form-control__QTTr1,
+.page_custom-select__8FiP1 {
+    height: 50px;
+}
+
+.page_custom-select__8FiP1:active,
+.page_custom-select__8FiP1:focus {
+    outline: none;
+    box-shadow: none;
+    border-color: #000;
+}
+
+.page_btn__RMlOM {
+    border: none;
+    border-radius: 4px !important;
+}
+
+.page_btn__RMlOM.page_btn-primary__7j3cJ {
+    background: #000;
+    color: #fff;
+    padding: 15px 20px;
+}
+
+.page_btn__RMlOM:hover {
+    color: #fff;
+}
+
+.page_btn__RMlOM:active,
+.page_btn__RMlOM:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.page_box__GMyfm {
+    padding: 40px;
+    background: #fff;
+    box-shadow: -30px 30px 0px 0 rgba(0, 0, 0, 0.08);
+}
+
+.page_box__GMyfm h3 {
+    font-size: 14px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+label.page_error__fL5z8 {
+    font-size: 12px;
+    color: red;
+}
+
+#page_message__lnqd8 {
+    resize: vertical;
+}
+
+#page_form-message-warning__xX1lm,
+#page_form-message-success__yq_Ke {
+    display: none;
+}
+
+#page_form-message-warning__xX1lm {
+    color: #B90B0B;
+}
+
+#page_form-message-success__yq_Ke {
+    color: #55A44E;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.page_submitting__7WG3a {
+    float: left;
+    width: 100%;
+    padding: 10px 0;
+    display: none;
+    font-weight: bold;
+    font-size: 12px;
+    color: #000;
+}
+
+.page_map__ENdg9{
+    width: 100%;
+    height: 520px;
+}
+
+
+
+.page_contact_info__S78oN
+{
+    width: 100%;
+    padding-top: 70px;
+}
+.page_contact_info_item__Gdh9o
+{
+    width: calc((100% - 60px) / 3);
+    height: 100px;
+    border: solid 1px #e8e8e8;
+    box-shadow: 0px 1px 5px rgba(0,0,0,0.1);
+    padding-left: 32px;
+    padding-right: 15px;
+}
+.page_contact_info_image__S1Ubi
+{
+    width: 35px;
+    height: 35px;
+    text-align: center;
+}
+.page_contact_info_image__S1Ubi img
+{
+    max-width: 100%;
+}
+.page_contact_info_content__zSO8b
+{
+    padding-left: 17px;
+}
+.page_contact_info_title__xXnIj
+{
+    font-weight: 500;
+}
+.page_contact_info_text__KoYBF
+{
+    font-size: 12px;
+    color: rgba(0,0,0,0.5);
+}

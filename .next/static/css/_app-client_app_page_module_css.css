@@ -1,0 +1,114 @@
+/*!*************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[3]!./app/page.module.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************/
+@import url(https://fonts.googleapis.com/css?family=Bebas+Neue:regular);
+
+.page_secondSection__HYopd {
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100vw;
+  height: 450px;
+}
+
+.page_textSection__kWjT4 {
+  position: relative;
+}
+
+.page_pureText__H22cu {
+  font-family: "Bebas Neue";
+  font-size: 65px;
+  font-weight: 400;
+  line-height: 65px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.page_supportText__IRtUa {
+  font-family: "Wasatsh Brush";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 110px;
+  line-height: 118px;
+  text-align: center;
+  color: #4c7df0;
+}
+
+
+.page_tsPureText__a55zi {
+  font-family: "Bebas Neue";
+  font-size: 65px;
+  font-weight: 400;
+  line-height: 65px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.page_tsSupportText__mPJAe {
+  font-family: "Wasatsh Brush";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 110px;
+  line-height: 100px;
+  text-align: center;
+  color: #4c7df0;
+  margin-left: -20px;
+}
+
+.page_tsSupportTextFourth__t7Myw {
+  font-family: "Wasatsh Brush";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 110px;
+  line-height: 20px;
+  text-align: center;
+  color: #4c7df0;
+  margin-top: -40px;
+  margin-left: -20px;
+}
+
+.page_phoneMenuBtn__nf9hG {
+  font-size: x-large;
+  display: none;
+}
+
+.page_whyChooseUsText__jclap {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.5rem;
+  line-height: 27px;
+  color: #3a3b48;
+  padding-left: 2.5rem;
+}
+
+.page_helpTextThirdSection__bh15Y {
+  font-family: "DM Sans", sans-serif;
+  padding-left: 2.5rem;
+  font-size: 1.2rem;
+}
+
+.page_helpTextThirdSection1__Mwb71 {
+  font-family: "DM Sans", sans-serif;
+  padding-left: 2.5rem;
+  color: #4c7df0;
+  font-size: 1.2rem;
+
+}
+
+
+
+.page_mlBadge__z3MCP {
+  width: -moz-fit-content !important;
+  width: fit-content !important;
+  font-size: medium;
+  border: 2px solid #4c7df0 !important;
+  color: #4c7df0 !important;
+  background-color: #fff !important;
+}
+
+.page_proContain__zAmaD {
+  padding-left: 4.5rem;
+}
+
+.page_helpTextThirdSection12__Mgv12 {
+  font-family: "DM Sans", sans-serif;
+}

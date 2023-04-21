@@ -1,0 +1,58 @@
+@font-face {
+  font-family: "Tommy";
+  src: url(../public/font/madeTommy.otf);
+}
+
+@font-face {
+  font-family: "pSans";
+  src: url(../public/font/productSans.ttf);
+}
+
+@font-face {
+  font-family: "Wasatsh Brush";
+  src: url(../public/font/wasatsh-brush.ttf);
+}
+
+@import url(https://fonts.googleapis.com/css?family=Bebas+Neue:regular);
+
+@import url(https://fonts.googleapis.com/css2?family=DM+Sans&display=swap);
+
+
+p {
+  margin: 0 !important;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #4c7df09d;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #4c7df0;
+}
+
+:root {
+  --c-dark: #212529;
+  --c-brand: #4C7DF0;
+  --c-brand-light: #4C7DF0;
+  --c-brand-rgb: 78, 87, 212;
+  --c-body: #727272;
+  --font-base: "ClashDisplay", sans-serif;
+  --box-shadow: 0px 15px 25px rgba(0,0,0,0.08);
+  --transition: all 0.5s ease;
+}
